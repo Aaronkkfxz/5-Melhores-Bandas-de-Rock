@@ -11,12 +11,18 @@ body {
     padding: 0;
 }
 header {
+    display: flex;
     background-color: #333;
     padding: 20px;
     text-align: center;
+    justify-content: space-between;
+    align-items: center;
 }
 header h1 {
-    margin: 0;
+    margin-right: 45%;
+}
+header a{
+    color: antiquewhite;
 }
 main {
     padding: 20px;
