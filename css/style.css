@@ -18,8 +18,11 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-header h1 {
+.h1banda{
     margin-right: 45%;
+}
+.h1index{
+    margin-left:35%;
 }
 header a{
     color: antiquewhite;
